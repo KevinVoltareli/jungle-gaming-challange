@@ -1,0 +1,11 @@
+{
+  "name": "@jungle/eslint-config",
+  "version": "1.0.0",
+  "main": "index.cjs",
+  "private": true,
+  "peerDependencies": {
+    "eslint": "^9.0.0",
+    "@typescript-eslint/parser": "^8.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.0"
+  }
+}

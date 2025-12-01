@@ -1,0 +1,5 @@
+export declare enum NotificationType {
+    TASK_ASSIGNED = "TASK_ASSIGNED",
+    TASK_STATUS_CHANGED = "TASK_STATUS_CHANGED",
+    TASK_COMMENT = "TASK_COMMENT"
+}

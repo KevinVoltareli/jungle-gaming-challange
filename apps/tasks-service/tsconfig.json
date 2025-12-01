@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2020",
+    "moduleResolution": "node",
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "rootDir": "src",
+    "outDir": "dist",
+
+    "strictPropertyInitialization": false,
+    "useDefineForClassFields": false
+  },
+  "include": ["src"]
+}

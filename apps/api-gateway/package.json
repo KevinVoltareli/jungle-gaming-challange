@@ -1,0 +1,7 @@
+{
+  "name": "api-gateway",
+  "version": "0.0.1",
+  "scripts": {
+    "start:dev": "ts-node-dev --respawn --transpile-only src/main.ts"
+  }
+}

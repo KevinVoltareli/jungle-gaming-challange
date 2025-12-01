@@ -1,0 +1,13 @@
+{
+  "name": "notifications-service",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start:dev": "ts-node-dev --respawn --transpile-only src/main.ts",
+    "start:mq": "ts-node-dev --respawn --transpile-only src/microservice.ts"
+  },
+  "dependencies": {
+    "amqp-connection-manager": "^3.9.0",
+    "amqplib": "^0.10.9"
+  }
+}
