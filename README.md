@@ -93,7 +93,7 @@ A solução segue uma arquitetura em **monorepo** com múltiplos serviços Nest.
                               +----------------------+
 
 
-
+```
 
 ### Estrutura de pasta
 ```txt
