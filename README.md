@@ -114,7 +114,7 @@ A solução segue uma arquitetura em **monorepo** com múltiplos serviços Nest.
 ├── package.json
 └── README.md
 
-
+```
 
 ## 🧠 Decisões técnicas e trade-offs
 
